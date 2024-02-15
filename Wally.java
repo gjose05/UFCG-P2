@@ -18,8 +18,10 @@ public class Wally{
                 if (todosnomes.length() == 0){
                   System.out.println("?");
                 }
-                System.out.println(todosnomes);
+                else{
+                  System.out.println(todosnomes);
                 }
+              }
             }
             
         }
